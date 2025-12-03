@@ -1,0 +1,119 @@
+# Unsolved Mysteries
+
+> Ongoing puzzles and mysteries in Neuko.
+
+## Overview
+
+Some puzzles remain unsolved, and new mysteries continue to emerge. This page documents ongoing investigations and unsolved elements.
+
+## Unsolved Puzzles
+
+### 1. Ultimatum Consequences
+
+**Location**: Post #8 (October 31, 2025)\
+**Status**: Unknown\
+**Details**:
+
+* 24-hour deadline for Snake badge distribution passed
+* Consequences for non-compliance hinted but not revealed
+* "Flagged operatives" status unknown
+* References to moving operations underground
+
+**Community Theories**:
+
+* Badge revocation for hoarders
+* Exclusion from future drops
+* No actual consequences (test of loyalty)
+* Future lore reveals
+
+***
+
+### 2. SF-06 Door
+
+**Location**: Post #8 (Ultimatum video)\
+**Status**: Unknown significance\
+**Details**:
+
+* Elevator door labeled "SF-06" appears in video
+* No clear connection to other puzzles
+* May be code or reference
+
+**Analysis**: Community has not yet determined significance or connection to other elements.
+
+***
+
+### 3. ~~Hidden Clues in Latest Video~~ (Resolved)
+
+**Location**: Post #10 (November 12, 2025 - Claymation)\
+**Status**: Resolved - No hidden puzzles\
+**Details**:
+
+* Major lore dump video
+* **Team Statement**: Neuko team confirmed there are no hidden puzzles in this video
+* It's a fun catch-up video to recap the story and lore
+* Focus is on lore explanation, not puzzle-solving
+
+**Note**: While the community initially analyzed this video for hidden elements, the team has clarified it's purely a lore recap video with no hidden puzzles.
+
+***
+
+### 4. Treasure Trail Completion
+
+**Location**: Post #9 (Website Reveal)\
+**Status**: Ongoing\
+**Details**:
+
+* Treasure trail initiated for wallet holding 3x badges
+* Community puzzle hunt
+* Full solution not yet documented
+
+**Analysis**: Treasure trail hunt continues. Community working to solve clues and complete the trail.
+
+***
+
+### 5. Channel Number Codes
+
+**Location**: Posts #6-7 (TV Channel Videos)\
+**Status**: Partially solved\
+**Details**:
+
+* Multiple channel numbers visible
+* Some may be false trails
+* Not all codes have been deciphered
+* May connect to other puzzles
+
+**Analysis**: Some channel numbers analyzed, but not all have been connected to solutions. May be intentional false trails or unsolved codes.
+
+***
+
+## Ongoing Investigations
+
+### Website Console Logs
+
+**Status**: Partially analyzed\
+**Details**: Console logs discovered, but full meaning may not be revealed. Additional logs or updates may appear.
+
+### Badge Utility
+
+**Status**: Unknown\
+**Details**: Badge utilities not yet revealed. May be connected to future puzzles or reveals.
+
+### Future Puzzles
+
+**Status**: Anticipated\
+**Details**: Team continues to release content. New puzzles likely to emerge in future posts.
+
+## How to Contribute
+
+If you discover something new or solve an unsolved mystery:
+
+1. Document your findings
+2. Share with community
+3. Update documentation
+4. Help others understand
+
+## Related Pages
+
+* [Puzzle-Solving Techniques](/broken/pages/Qelq6aiJV5Z1vGIi1YBQ) - Methods to analyze unsolved puzzles
+* [Puzzle Contributors](/broken/pages/KCSxnlJ6sVXLA938zkiV) - Solvers working on mysteries
+* [Transmissions Overview](overview.md) - All posts with potential puzzles

@@ -1,0 +1,38 @@
+name: Sync to Website
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Wiki Repo
+        uses: actions/checkout@v4
+
+      - name: Checkout Website Repo
+        uses: actions/checkout@v4
+        with:
+          repository: neuko-community/neuko-community.github.io
+          token: ${{ secrets.API_TOKEN_GITHUB }}
+          path: website-repo
+
+      - name: Sync Files
+        run: |
+          # Remove existing wiki content in website repo to ensure deletions are synced
+          rm -rf website-repo/wiki/*
+          
+          # Copy all files from wiki repo to website repo's wiki folder
+          # Excluding .git and .github
+          rsync -av --progress . website-repo/wiki --exclude .git --exclude .github --exclude website-repo
+
+      - name: Commit and Push
+        working-directory: website-repo
+        run: |
+          git config user.name "neuko-bot"
+          git config user.email "bot@neuko.ai"
+          git add .
+          git commit -m "chore(sync): update wiki content from neuko-community/wiki@${{ github.sha }}" || echo "No changes to commit"
+          git push

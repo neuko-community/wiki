@@ -14,7 +14,7 @@
 ## Distribution
 
 * Phase 1: 200 Rabbit 🐰 badges airdropped first to 200 people
-* Phase 2: 462 Moth 🐝 badges airdropped after Rabbits to next wave
+* Phase 2: 750 Moth 🐝 badges airdropped after Rabbits to next wave
 
 ## Puzzle Discovery
 

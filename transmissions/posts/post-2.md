@@ -19,7 +19,7 @@ We recieved a message:
 
 A video appeared featuring a theme music and **six distinctive attributes**:
 
-- Red hood with horns  
+- Red hood with ears  
 - Yellow T-shirt  
 - Pale green shorts  
 - Purple and white high-top sneakers  

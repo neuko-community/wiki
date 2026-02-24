@@ -18,7 +18,7 @@
 - Appeared in [Shinkai Metropolis](../locations/Shinkai-Metropolis.md) mind place following dimensional incident
 - Subject of unsuccessful recovery operations led by Nocturne Squadron
 - Adopted as symbol by The Bloc activist movement
-- Distinctive appearance: red hooded figure with horns
+- Distinctive appearance: red hooded figure with ears
 - Current whereabouts unknown (believed to be in the Mindverse)
 
 ## Overview
